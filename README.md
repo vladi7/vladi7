@@ -123,6 +123,10 @@
       <td>POlicy Machine Analyzer: a tool for testing and verifying NGAC (Next Generation Access Control) policies</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/vladi7/tello-drone-video"><b>Drone Video Recognition</a></td>
+      <td>Angular/nodejs project for tello done with computer vision concepts</td>
+    </tr> 	      
+    <tr>
       <td><a href="https://github.com/vladi7/case-tracking-system"><b>Case Tracking System</a></td>
       <td>Case tracking system implemented with Angular and Google Firebase</td>
     </tr> 
