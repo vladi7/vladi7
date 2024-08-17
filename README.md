@@ -7,11 +7,11 @@
 
 <h2>Experience</h2>
 
-🔬 Formal Verification & Security Researcher: 5+ years
+🔬 Formal Verification & Security Researcher: 5 years
 
-💻 Software Engineer: 4+ years
+💻 Software Engineer: 4 years
 
-✨ DevOps & Automation Engineer: 2+ years
+✨ DevOps & Automation Engineer: 2 years
 
 🔀 Data Engineer: 1 year
 
