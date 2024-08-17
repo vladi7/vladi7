@@ -134,6 +134,10 @@
       <td><a href="https://github.com/vladi7/twitter-analytics-spark"><b>Twitter Analytics with SparkSQL</a></td>
       <td>Scala-based project performing sentiment analysis of a large number of tweets. UI is ScalaFX</td>
     </tr>     
+     <tr>
+      <td><a href="https://github.com/vladi7/TCP-multicast-chat"><b>TCP Multicast Chat</a></td>
+      <td>C-based TCP multicast chat</td>
+    </tr>  
   </tbody>
 </table>
 
