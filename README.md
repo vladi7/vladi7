@@ -11,7 +11,7 @@
 
 💻 Software Engineer: 4 years
 
-✨ DevOps & Automation Engineer: 2 years
+✨ DevSecOps Engineer: 2 years
 
 🔀 Data Engineer: 1 year
 
