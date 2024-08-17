@@ -58,11 +58,13 @@
 
 <h3>Experience</h3>
 
-🔬 Formal verification & security researcher(5+ years)
+🔬 Formal Verification & Security Researcher(5+ years)
 
 💻 Software & Data Engineer(4+ years)
 
-✨ DevOps/Automation Engineer(2+ years)
+✨ DevOps & Automation Engineer(2+ years)
+
+🔀 Data Engineer(1 year)
 
 📜 Microsoft Certified: Azure Developer Associate & Azure Administrator Associate
 
