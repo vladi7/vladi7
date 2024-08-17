@@ -119,8 +119,8 @@
       <td>Proposal Workflow Management System - A web-based application for automating the approval process of grant submissions at an academic institution. GPMC-NGAC is the first real-world open-source Next Generation Access Control system.</td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/vladi7/PoMA-public"><b>POlicy Machine Analyzer(POMA)</a></td>
-      <td>POlicy Machine Analyzer: a tool for testing and verifying NGAC (Next Generation Access Control) policies</td>
+      <td><a href="https://github.com/vladi7/PoMA-public"><b>Policy Machine Analyzer(POMA)</a></td>
+      <td>Policy Machine Analyzer: a tool for testing and verifying NGAC (Next Generation Access Control) policies</td>
     </tr>
     <tr>
       <td><a href="https://github.com/vladi7/tello-drone-video"><b>Drone Video Recognition</a></td>
