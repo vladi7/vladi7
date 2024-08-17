@@ -116,7 +116,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/vladi7/GPMS-NGAC"><b>GPMS-NGAC</b></a></td>
-      <td>Proposal Workflow Management System - A web-based application for automating the approval process of grant submissions at an academic institution. The original version used the XACML standard for the access control policy. GPMC-NGAC uses the NGAC standard for access control, while keeping the same web-based user interface.</td>
+      <td>Proposal Workflow Management System - A web-based application for automating the approval process of grant submissions at an academic institution. GPMC-NGAC is the first real-world open-source Next Generation Access Control system.</td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/vladi7/PoMA-public"><b>POlicy Machine Analyzer(POMA)</a></td>
@@ -124,7 +124,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/vladi7/tello-drone-video"><b>Drone Video Recognition</a></td>
-      <td>Angular/nodejs project for tello done with computer vision concepts</td>
+      <td>Angular/nodejs project for tello drone with computer vision concepts</td>
     </tr> 	      
     <tr>
       <td><a href="https://github.com/vladi7/case-tracking-system"><b>Case Tracking System</a></td>
