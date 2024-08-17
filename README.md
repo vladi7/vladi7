@@ -2,6 +2,18 @@
 👋Welcome to my Page! 
 </br> I'm a PhD Candidate with Software and Automation Engineering experience from Overland Park, Kansas 
 
+<h3>Experience</h3>
+
+🔬 Formal Verification & Security Researcher(5+ years)
+
+💻 Software Engineer(4+ years)
+
+✨ DevOps & Automation Engineer(2+ years)
+
+🔀 Data Engineer(1 year)
+
+📜 Microsoft Certified: Azure Developer Associate & Azure Administrator Associate
+
 <h3>Things I code with</h3>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -55,18 +67,6 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8)
-
-<h3>Experience</h3>
-
-🔬 Formal Verification & Security Researcher(5+ years)
-
-💻 Software & Data Engineer(4+ years)
-
-✨ DevOps & Automation Engineer(2+ years)
-
-🔀 Data Engineer(1 year)
-
-📜 Microsoft Certified: Azure Developer Associate & Azure Administrator Associate
 
 <h3>Publications</h3>
 <table>
