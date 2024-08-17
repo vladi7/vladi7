@@ -1,8 +1,11 @@
-### About Me: 
-👋Welcome to my Page! 
-</br> I'm a PhD Candidate with Software and Automation Engineering experience from Overland Park, Kansas 
+<h1>Hey! Nice to see you.</h1>
 
-<h3>Experience</h3>
+## About Me: 
+👋Welcome to my Page! 
+</br> I'm Vladislav, PhD Candidate at the  <img src="https://cdn-user-icons.flaticon.com/159413/159413149/1723916905039.svg?token=exp=1723917805~hmac=62b3d5430efe984aac9195713f1c033c" width="13"/><b>University of Missouri-Kansas City</b>, from <img src="https://cdn-icons-png.flaticon.com/512/10576/10576632.png" width="13"/> <b>Kansas, USA</b> 
+
+
+<h2>Experience</h2>
 
 🔬 Formal Verification & Security Researcher(5+ years)
 
@@ -14,7 +17,7 @@
 
 📜 Microsoft Certified: Azure Developer Associate & Azure Administrator Associate
 
-<h3>Things I code with</h3>
+<h2>Things I code with</h2>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,7 +30,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-<h3>Databases I work with</h3>
+<h2>Databases I work with</h2>
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -35,7 +38,7 @@
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h3>Things I deploy to</h3>
+<h2>Things I deploy to</h2>
 <h4>Cloud Platforms:</h4>
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -60,7 +63,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-<h3>Platforms I administer and observe with</h3>
+<h2>Platforms I administer and observe with</h2>
 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
@@ -68,7 +71,7 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8)
 
-<h3>Publications</h3>
+<h2>Publications</h2>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -101,7 +104,7 @@
 </table>
 
 
-<h3>Open Source Projects</h3>
+<h2>Open Source Projects</h2>
 <table>
   <thead align="center">
     <tr border: none;>
