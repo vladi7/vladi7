@@ -9,7 +9,7 @@
 
 🔬 Formal Verification & Security Researcher: 5 years
 
-💻 Software Engineer: 4 years
+💻 Staff Software Engineer: 4 years
 
 ✨ DevSecOps Engineer: 2 years
 
