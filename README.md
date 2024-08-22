@@ -4,10 +4,15 @@
 👋Welcome to my Page! 
 </br> I'm Vladislav, PhD Candidate at the  <img src="https://cdn-user-icons.flaticon.com/159413/159413149/1723916905039.svg?token=exp=1723917805~hmac=62b3d5430efe984aac9195713f1c033c" width="13"/><b>University of Missouri-Kansas City</b>, from <img src="https://cdn-icons-png.flaticon.com/512/10576/10576632.png" width="13"/> <b>Kansas, USA</b> 
 
-
 <h2>Experience</h2>
 
 🔬 Formal Verification & Security Researcher: 5 years
+
+💻 Staff Software Engineer: 4 years
+
+✨ DevSecOps Engineer: 2 years
+
+🔀 Data Engineer: 1 year
 
 📜 Microsoft Certified: Azure Developer Associate & Azure Administrator Associate
 
