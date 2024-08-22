@@ -9,12 +9,6 @@
 
 🔬 Formal Verification & Security Researcher: 5 years
 
-💻 Staff Software Engineer: 4 years
-
-✨ DevSecOps Engineer: 2 years
-
-🔀 Data Engineer: 1 year
-
 📜 Microsoft Certified: Azure Developer Associate & Azure Administrator Associate
 
 <h2>Things I code with</h2>
