@@ -2,7 +2,7 @@
 
 ## About Me: 
 👋Welcome to my Page! 
-</br> I'm Vladislav, PhD Candidate at the  <img src="https://cdn-user-icons.flaticon.com/159413/159413149/1723916905039.svg?token=exp=1723917805~hmac=62b3d5430efe984aac9195713f1c033c" width="13"/><b>University of Missouri-Kansas City</b>, from <img src="https://cdn-icons-png.flaticon.com/512/10576/10576632.png" width="13"/> <b>Kansas, USA</b> 
+</br> I'm Vladislav, PhD Candidate at the  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZmOkHMZ8RbM_Pe2npMxSKONKOW4pTH7e9g&s" width="13"/><b>University of Missouri-Kansas City</b>, from <img src="https://cdn-icons-png.flaticon.com/512/10576/10576632.png" width="13"/> <b>Kansas, USA</b> 
 
 <h2>Things I code with</h2>
 
