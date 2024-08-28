@@ -137,7 +137,7 @@
 
 🔀 Data Engineer: 1 year
 
-📜 Microsoft Certified: Azure Developer Associate & Azure Administrator Associate
+📜 Microsoft Certified: Azure Developer Associate(AZ-204) & Azure Administrator Associate(AZ-104)
 
 <!--
 **vladi7/vladi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
