@@ -127,9 +127,7 @@
   </tbody>
 </table>
 
-<h2>Experience</h2>
-
-🔬 Formal Verification & Security Researcher: 5 years
+<h2>Certificates</h2>
 
 📜 Microsoft Certified: Azure Developer Associate(AZ-204) & Azure Administrator Associate(AZ-104)
 
