@@ -19,7 +19,7 @@
 
 <h2>Things I prove with</h2>
 
-<img src="https://avatars.githubusercontent.com/u/81640843?s=200&v=4" alt="CVC5" height="60"> <img src="https://avatars.githubusercontent.com/u/11668813?s=200&v=4" alt="Z3" height="60">
+<img src="https://avatars.githubusercontent.com/u/81640843?s=200&v=4" alt="CVC5" height="50"> <img src="https://avatars.githubusercontent.com/u/11668813?s=200&v=4" alt="Z3" height="50">
 
 <h2>Databases I work with</h2>
 
