@@ -5,12 +5,18 @@
 </br> I'm Vladislav, PhD Candidate at the  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZmOkHMZ8RbM_Pe2npMxSKONKOW4pTH7e9g&s" width="13"/><b>University of Missouri-Kansas City</b> from <img src="https://cdn-icons-png.flaticon.com/512/10576/10576632.png" width="13"/> <b>Kansas, USA</b> 
 </br> *Authorization, Formal methods, Semantics and reasoning, Software Engineering*
 
+<h2>Skills Overview</h2>
+
+- **Programming Languages:** .NET, Python, Java 
+- **Data Engineering:** Apache Spark, Azure Synapse, Databricks  
+- **Cloud and Deployment:** Kubernetes, Docker, Terraform, Ansible, Jenkins, Azure, GCP, OCI  
+- **Verification Tools:** CVC5, Z3 
+
 <h2>Languages I code with</h2>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
