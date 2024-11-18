@@ -5,7 +5,7 @@
 </br> I'm Vladislav, PhD Candidate at the  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZmOkHMZ8RbM_Pe2npMxSKONKOW4pTH7e9g&s" width="13"/><b>University of Missouri-Kansas City</b> from <img src="https://cdn-icons-png.flaticon.com/512/10576/10576632.png" width="13"/> <b>Kansas, USA</b> 
 </br> *Authorization, Formal methods, Semantics and reasoning, Software Engineering*
 
-<h2>Things I code with</h2>
+<h2>Languages I code with</h2>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,7 +16,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<h2>Things I prove with</h2>
+<h2>Tools I prove with</h2>
 
 <img src="https://avatars.githubusercontent.com/u/81640843?s=200&v=4" alt="CVC5" height="50"> <img src="https://avatars.githubusercontent.com/u/11668813?s=200&v=4" alt="Z3" height="50">
 
