@@ -31,7 +31,6 @@
 <h2>Data Engineering Tools and Platforms</h2>
 
 ![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-%230072C6.svg?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
