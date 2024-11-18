@@ -19,6 +19,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![SMTLIB v2](https://img.shields.io/badge/SMTLIBv2-%234B8BBE.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAIAAADZF8uwAAAAH0lEQVR42mNgYGD4TyEMEwp0TDYGBgb7fxSAQwAAejcFGBDBVucAAAAAElFTkSuQmCC&logoColor=white)
 
 <h2>Tools I prove with</h2>
 
