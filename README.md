@@ -8,7 +8,7 @@
 
 <h2>Skills Overview</h2>
 
-- **Core Programming Languages:** .NET, Python, Java, SMTLIBv2 
+- **Programming Languages & Frameworks:** .NET, Python, Java, SMTLIBv2. React,Vue 
 - **Data Engineering:** Spark, Synapse, Databricks, Fabric
 - **Cloud and Deployment:** Kubernetes, Docker, Terraform, Ansible, Jenkins, Azure, GCP, OCI  
 - **Verification Tools:** CVC5, Z3 
