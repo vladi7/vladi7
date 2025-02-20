@@ -9,7 +9,7 @@
 <h2>Skills Overview</h2>
 
 - **Core Programming Languages:** .NET, Python, Java, SMTLIBv2 
-- **Data Engineering:** Apache Spark, Azure Synapse, Databricks  
+- **Data Engineering:** Spark, Synapse, Databricks, Fabric
 - **Cloud and Deployment:** Kubernetes, Docker, Terraform, Ansible, Jenkins, Azure, GCP, OCI  
 - **Verification Tools:** CVC5, Z3 
 
@@ -19,7 +19,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![SMTLIB v2](https://img.shields.io/badge/SMTLIBv2-%234B8BBE.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAIAAADZF8uwAAAAH0lEQVR42mNgYGD4TyEMEwp0TDYGBgb7fxSAQwAAejcFGBDBVucAAAAAElFTkSuQmCC&logoColor=white)
 
 <h2>Tools I prove with</h2>
@@ -52,7 +51,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<h4>Deployment Platforms:</h4>
+<h4>Platforms:</h4>
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
