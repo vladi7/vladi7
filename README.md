@@ -152,7 +152,9 @@
 -->
 <h2>Certificates</h2>
 
-📜 Microsoft Certified: Azure Solutions Architect Expert & Azure Developer Associate & Azure Administrator Associate
+📜 Microsoft Certified: Azure Solutions Architect Expert
+📜 Microsoft Certified: Azure Developer Associate
+📜 Microsoft Certified: Azure Administrator Associate
 
 <!--
 **vladi7/vladi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
