@@ -113,7 +113,7 @@
   </tbody>
 </table>
 
-
+<!--
 <h2>Open Source Projects</h2>
 <table>
   <thead align="center">
@@ -149,7 +149,7 @@
     </tr>  
   </tbody>
 </table>
-
+-->
 <h2>Certificates</h2>
 
 📜 Microsoft Certified: Azure Solutions Architect Expert & Azure Developer Associate & Azure Administrator Associate
