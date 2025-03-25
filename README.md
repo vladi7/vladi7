@@ -8,10 +8,10 @@
 
 <h2>Skills Overview</h2>
 
-- **Languages & Frameworks:** .NET, Python, Java, React, Vue 
-- **Data Engineering:** Spark, Synapse, Databricks, Fabric
-- **Cloud and Deployment:** Kubernetes, Docker, Terraform, Ansible, Jenkins, Azure, GCP, OCI  
-- **Verification Tools:** CVC5, Z3 
+- **Programming:** .NET, Python, Java, React, Vue, SQL, C, C++ 
+- **Data Engineering:** Spark, Synapse, Databricks, Microsoft Fabric
+- **DevOps:** Kubernetes, Docker, Terraform, Ansible, Jenkins, Azure, GCP, OCI  
+- **Verification:** CVC5, Z3 
 
 <h2>Languages I code with</h2>
 
