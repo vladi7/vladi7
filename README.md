@@ -2,9 +2,11 @@
 
 ## About Me: 
 👋Welcome to my Page! 
-</br> I'm Vladislav, PhD Candidate at the  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZmOkHMZ8RbM_Pe2npMxSKONKOW4pTH7e9g&s" width="13"/><b>University of Missouri-Kansas City</b> from <img src="https://cdn-icons-png.flaticon.com/512/10576/10576632.png" width="13"/> <b>Kansas, USA</b> 
+</br> I'm Vladislav, PhD Candidate at the  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZmOkHMZ8RbM_Pe2npMxSKONKOW4pTH7e9g&s" width="13"/><b>University of Missouri-Kansas City</b> from <img src="https://cdn-icons-png.flaticon.com/512/10576/10576632.png" width="13"/> <b>Kansas, USA</b>, graduating **December 2025**. 
 </br> 
-</br> <b>Research Areas:</b> *Formal methods, Semantics and reasoning, Dynamic Authorization, Artificial Intelligence, Multi-agent Systems*
+</br> <b>Research Areas:</b> *Formal methods, Semantics and reasoning, Dynamic Authorization, Artificial Intelligence, Agentic LLM Systems*
+
+Please feel free to reach out to me for a detailed overview of my professional and academic journey, as well as to discuss potential collaborations: dubrovenski.v@gmail.com.
 
 <h2>Skills Overview</h2>
 
