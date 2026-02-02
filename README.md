@@ -2,7 +2,7 @@
 
 **AI Architect @ Epiq** • **PhD in Computer Science**
 
-I work on enterprise AI platforms, agentic systems, and AI governance.
+Enterprise AI platforms with a focus on agentic systems and AI governance.
 
 ### Focus Areas:
 - Designing and scaling agentic AI platforms for enterprise use
