@@ -19,6 +19,3 @@ My work centers on:
 - Agentic AI systems and orchestration
 - AI safety, governance, and compliance
 - Secure and scalable AI platform architecture
----
-**Contact:** dubrovenski.v@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/vladi7/
